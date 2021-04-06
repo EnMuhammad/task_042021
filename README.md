@@ -12,5 +12,4 @@ $('.phone_type').html(x.Sabafon_GetType());
 $('.phone_type').html('Type phone number');
 }
 })`
-
-<iframe src="https://github.com/EnMuhammad/task_042021/blob/master/Title.webm?raw=true"></iframe>
+![Title](https://user-images.githubusercontent.com/62790611/113788912-bed3f980-9746-11eb-81b1-f7e42be8961f.gif)
